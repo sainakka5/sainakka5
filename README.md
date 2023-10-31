@@ -1,7 +1,10 @@
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Apparao Sai Nakka</h1>
 <h3 align="center">I am passionate about to work as a devops engineer , i had gained some experience on devops projects which i had saved in my github account: https://github.com/sainakka5 you can check my projects. I had strong knowledge on kubernetes deployment, containerization , jenkins automation tools and python, Sql programming languages</h3>
+
 <img align="right" alt="DEVOPS" width="400" src = "![image](https://github.com/sainakka5/sainakka5/assets/136338958/a647337c-64fc-4899-b04c-bf495fc54a6d)
 ">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainakka5&label=Profile%20views&color=0e75b6&style=flat" alt="sainakka5" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/sainakka5](https://github.com/sainakka5)

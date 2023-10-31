@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 🙋🏻‍♂️, I'm Apparao Sai Nakka</h1>
 
-<h3 align="center">✨ I am passionate about to work as a devops engineer. <br> ✨ Strong knowledge in kubernetes deployment, containerization , jenkins automation tools and python, Sql programming languages</h3>
+<h3 align="center">✨ I am passionate about to work as a devops engineer. <br> ✨ Strong knowledge in kubernetes deployment, Docker containerization , jenkins automation tools and python, Sql programming languages</h3>
 
 
  <hr> 

@@ -1,10 +1,11 @@
 <h1 align="center"> Hi 🙋🏻‍♂️, I'm Apparao Sai Nakka</h1>
 
-<h3 align="center">✨ I am passionate about to work as a devops engineer. <br> ✨I had strong knowledge on kubernetes deployment, containerization , jenkins automation tools and python, Sql programming languages<br></h3><br>
+<h3 align="center">✨ I am passionate about to work as a devops engineer. <br> ✨ Strong knowledge in kubernetes deployment, containerization , jenkins automation tools and python, Sql programming languages</h3>
 
 
  <hr> 
-  <img align="left" width="400" height="250" src ="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif"><img align="left" width= "400" height="250" alt ="DEVOPS"  src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif"><br><br><br><br><br><br><br><br><br><br><br><br>
+  <img align="left" width="400" height="350" src ="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif">
+  <img align="left" width= "400" height="350" alt ="DEVOPS"  src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif"><br><br><br><br><br><br><br><br><br><br><br><br>
   <br>
  <hr>
 

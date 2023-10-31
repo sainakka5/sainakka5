@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋🏻‍♂️, I'm Apparao Sai Nakka</h1>
-<h3 align="center">I am passionate about to work as a devops engineer. I had strong knowledge on kubernetes deployment, containerization , jenkins automation tools and python, Sql programming languages</h3>
+<h3 align="center">I am passionate about to work as a devops engineer. I had strong knowledge on kubernetes deployment, containerization , jenkins automation tools and python, Sql programming languages</h3><br>
 
 <img align="right" alt="DEVOPS" width="500" src = "https://www.google.com/url?sa=i&url=http%3A%2F%2Ffaun.dev%2Fc%2Fstories%2Fisitmohit%2Fcloud-vs-devops-in-2023%2F&psig=AOvVaw2s846O_CBSUMOJGgdNkeVw&ust=1698831287396000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiV_e79n4IDFQAAAAAdAAAAABAX"><br>
 

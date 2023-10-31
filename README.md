@@ -4,8 +4,8 @@
 
 
  <hr> 
-  <img align="left" width="450" height="250" src ="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif">
-  <img align="left" width= "450" height="250" alt ="DEVOPS"  src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif"><br><br><br><br><br><br><br><br><br><br><br><br>
+  <img align="left" width="425" height="250" src ="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif">
+  <img align="left" width= "425" height="250" alt ="DEVOPS"  src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif"><br><br><br><br><br><br><br><br><br><br><br><br>
   <br>
  <hr>
 

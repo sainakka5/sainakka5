@@ -42,7 +42,7 @@
 ✨ MS Office (Word, PowerPoint, Excel)<br>
 ✨ ADOBE PHOTOSHOP</p> </h3><br>
 
-<h3 align="left">Connect with me:</h3>
+# CONNECT WITH ME : 
 <p align="left">
 <a href="https://twitter.com/sainakka5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sainakka5" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/apparao-sai-nakka-8725a4227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apparao-sai-nakka-8725a4227/" height="30" width="40" /></a>

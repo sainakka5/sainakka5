@@ -1,4 +1,4 @@
-<img height="200" src="https://media.licdn.com/dms/image/D5616AQHX6Trpm4LMaQ/profile-displaybackgroundimage-shrink_350_1400/0/1698833465900?e=1704326400&v=beta&t=L33SQZlHFiQvGnH9G7NN2RXJFQljQ0DcvVwvBZE2qco">
+<img width= "1000" height="200" src="https://media.licdn.com/dms/image/D5616AQHX6Trpm4LMaQ/profile-displaybackgroundimage-shrink_350_1400/0/1698833465900?e=1704326400&v=beta&t=L33SQZlHFiQvGnH9G7NN2RXJFQljQ0DcvVwvBZE2qco">
 
 <h1 align="center"> Hi 🙋🏻‍♂️, I'm Apparao Sai Nakka</h1>
 

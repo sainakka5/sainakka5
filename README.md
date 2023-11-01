@@ -6,7 +6,7 @@
 
 
  <hr> 
-  <img align="left" width="420" height="270" src ="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif">
+  <img align="left" width="430" height="270" src ="https://cdn.hashnode.com/res/hashnode/image/upload/v1679566984105/a9959474-198d-4bff-b290-1a54b4d66092.gif">
   <img align="right" width= "420" height="270" alt ="DEVOPS"  src="https://cdn.faun.dev/prod/media/public/original_images/devOps-cloud-native.gif"><br><br><br><br><br><br><br><br><br><br><br><br>
   <br>
  <hr>

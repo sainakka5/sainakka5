@@ -27,6 +27,7 @@
 
 
 # SKILLS
+
 <h3 align="left"><p>✨ C LANGUAGE (Basics)<br>
 ✨ PYTHON (with OOPS)<br>
 ✨ SQL (Mysql used in AWS RDS)<br>

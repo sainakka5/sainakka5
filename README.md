@@ -27,7 +27,8 @@
 
 
 # SKILLS
-
+k
+l
 ✨ C LANGUAGE (Basics)<br>
 ✨ PYTHON (with OOPS)<br>
 ✨ SQL (Mysql used in AWS RDS)<br>

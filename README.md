@@ -27,8 +27,7 @@
 
 
 # SKILLS
-k
-l
+<font size="6">
 ✨ C LANGUAGE (Basics)<br>
 ✨ PYTHON (with OOPS)<br>
 ✨ SQL (Mysql used in AWS RDS)<br>
@@ -41,7 +40,7 @@ l
 ✨ MONITOR TOOLS (Nagios,Prometheus,Grafana,ELK stack , Load balncing)<br>
 ✨ NGNIX (Load balancer, Revere proxy)<br>
 ✨ MS Office (Word, PowerPoint, Excel)<br>
-✨ ADOBE PHOTOSHOP
+✨ ADOBE PHOTOSHOP</font>
 
 # CONNECT WITH ME : 
 <p align="left">

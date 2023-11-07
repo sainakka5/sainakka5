@@ -1,9 +1,5 @@
 ![image](https://github.com/sainakka5/sainakka5/assets/136338958/6a3266df-f615-4d62-b453-2bac4ee915c7)
 
-
-<img width= "1020" height="250" src="https://lh3.googleusercontent.com/pw/ADCreHdEHHij4l6fSX_sPcONHbFzq-3HiiRjFhiyAvqRvcyU30k2SlSF9ZBwct4yi3XdA0DrTHnmXF7POhfdxxhZMYBE15WXgoeBhYJUUbO6gKCcbSpLonVofAvKlwoJ_kWhbXEQc6TjpKoMLFTJyeLnIlb5T28gmjO034ySE3HML4gOBp-XcUCUhFCthYaVzT3Hwy79Ndy4u8hfTp8EcGPSU9W-EuBUQ_yvLK82HRXuEbU-RyFLGK_b9P5fLgjhptagtK6EFgzCZRNHJeIqmkX65BZWM5sjeMV3-yJhmgLOw_lu7zqfwHnlupdFjH2EsuZ6J77p6zegymue6nHxNA3hC6RdA054J_xp9oLtNi3AacTcAxcB-kxPcmhU7NFJf1bg7Lu44-RoxNgbOHlZJTjb4eIjpQu6eBW5bT4XilC7nRa7zIEs9TlBkOtrp6aBcUpRGG7KD18yDoc2C2ljZHmGBbkxBXGHCQl3klPuusQLU4fT-WTH7HsaeVDZbGyNBEFhRjeUFn7prqEM47GvlZV110AtgKhHkqf5TGZFohL8S6CqDlQLX0h-ZO1fcUG6m_WElKLcK1IsW6f7NrqNJkpKI00aTQ418ZM9BPjYQrWzOmAoh11oxxioy8lc0o5tcNIwyxzjmEUpesdB9fCh-ZvqdiChbY1ABO31d-YTvcRw3K0gv0dbDMSturESmWKeZHQ_fYi3A_TqQdcc1NFVEFF_3NyWLJfIYE5hmrQv4PycGYyEOeANNjQGoB7Dr8bk4QghBVwVHspI-AWQ2Y_iuPd2J3Ac7cdoHmr9Mg1zmrDeo6mmx6vCy-bEl4_tfLmiwt1q16bImiGy0RsIkPZTS1AsXbZdQFSsX_SHliYybAvx3ySH1YS_-pYFEPb_PkXyrrU-4eJZXlFY1DrBsDN5qzLG9FcTBjRx6WjZKJPSceYdRLu71_pAowBK6Trmly-0D-cQhW5B4QVs8V6NXTY4vNZSj3kMZNXZco90KoAzJoNzHj3ity1HhUYejSYtGfduiKD08g=w1922-h577-s-no-gm?authuser=1">
-
-
 <h1 align="center"> Hi 🙋🏻‍♂️, I'm Apparao Sai Nakka</h1>
 <h3 align="center"><p>✨ I am passionate about to work as a devops engineer. <br> ✨ Strong knowledge in kubernetes deployment, Docker containerization , jenkins automation tools and python, Sql programming languages</p></h3>
 

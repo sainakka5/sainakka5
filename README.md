@@ -22,7 +22,7 @@
 
 - 📫 How to reach me : **sainakka5157@gmail.com**
 
-- 📄 Know about my experiences:  [https://www.canva.com/design/DAFMB2WDYXI/XE1VUtpXYb4DEVCLQnMl4A/edit?utm_content=DAFMB2WDYXI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFMB2WDYXI/XE1VUtpXYb4DEVCLQnMl4A/edit?utm_content=DAFMB2WDYXI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)<br></h3>
+- 📄 Know about my experiences: https://drive.google.com/file/d/181S6dMjyGnRGmKxifMXZkrGRYtNZqS2H/view?usp=sharing <br></h3>
 
 
 # SKILLS
